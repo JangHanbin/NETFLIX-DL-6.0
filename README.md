@@ -2,16 +2,22 @@
     <img width="200" src="https://www.freepnglogos.com/uploads/netflix-logo-0.png">
 </p>
 
-<h1> Netflix-DL 6.0 |HDR-HEVC-MPL-HPL Working|! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Netflix-DL 6.0 |HDR-HEVC-MPL-HPL Working| ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
-# Netflix-DL 6.0
+# Use Python 3.9.8 & install
 
 ## Quick start
 ```
-pip install -r requirements.txt
+install.requirements.bat
 ```
+Examples
+
+netflix.pyc 81478916 -q 1080 --hdr
+netflix.pyc 81478916 -q 1080 --hevc
+netflix.pyc 81478916 -q 1080 --main
+netflix.pyc 81478916 -q 1080 --high
 
 ```
 USAGE：
