@@ -15,8 +15,11 @@ install.requirements.bat
 Examples
 
 netflix.pyc 81478916 -q 1080 --hdr
+
 netflix.pyc 81478916 -q 1080 --hevc
+
 netflix.pyc 81478916 -q 1080 --main
+
 netflix.pyc 81478916 -q 1080 --high
 
 ```
